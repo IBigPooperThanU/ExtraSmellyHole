@@ -1,0 +1,14 @@
+this is soooooooo.... Boring. 
+Did U SmoothMooveToday(typeOf krp, typeOf nilly)
+DidSomtin(typeOf smell, typeOf Latreeen)
+U.SmellVeryBad = Smell.ExtraStench
+U.NoSoap    = True
+U.HasRash   = True
+U.HasPiles  = False
+U.NeedShower(typeOf Decision.NotNow)
+U.CreateStainsInPants(typeOf [Stains.Dark, Stains.Runny,Stains.Sticky]
+U.KanWalk   = False
+U.BuryIt(typeOf tird, typeOf smell, typeOf shovel)
+U.KleenFingers = False
+U.EETNow       = True
+U.Exit()
